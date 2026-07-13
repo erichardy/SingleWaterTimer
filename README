@@ -1,0 +1,6 @@
+Simple ESP32-C3 project to make a timer in order to manage
+the pump for watering in my garden.
+
+Sometimes, I encountered the problem when I forgot the pipe and empty
+the whole tank instead of stopping it after a few minutes... :-(
+
